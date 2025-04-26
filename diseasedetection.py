@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1Y_1IyDa3YS4MdnI-_KgLLeBOVU5fb1f1
 """
 
-!python --version
 
 import torch
 torch.__version__
