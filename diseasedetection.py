@@ -35,7 +35,7 @@ from tensorflow.keras import layers, models
 
 print("Version: ",tf.__version__)
 
-!pip install kaggle
+pip install kaggle
 
 kaggle_credentials = json.load(open("kaggle.json"))
 
@@ -44,9 +44,9 @@ os.environ['KAGGLE_KEY'] = kaggle_credentials["key"]
 
 """Downloads Plant Village Dataset"""
 
-!kaggle datasets download -d abdallahalidev/plantvillage-dataset
+kaggle datasets download -d abdallahalidev/plantvillage-dataset
 
-!ls
+ls
 
 with ZipFile('plantvillage-dataset.zip', 'r') as zip_ref:
    zip_ref.extractall()
