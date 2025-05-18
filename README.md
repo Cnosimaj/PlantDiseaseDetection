@@ -15,12 +15,13 @@ The dataset that is used in this project comes from Kaggle.com and is named Plan
 ## 🚀How to Run the Project
 1. Open your IDE of choice. Make sure the following are installed:
    -   Python
-3. Download the [Streamlit](streamlit.py) ![github_emoji_32x32](https://github.com/user-attachments/assets/2c450c0c-41ff-40ec-b5eb-9239b008545f) from my directory to make sure all modules are imported. You will need to import the following:
+2. Download the [Streamlit](streamlit.py) ![github_emoji_32x32](https://github.com/user-attachments/assets/2c450c0c-41ff-40ec-b5eb-9239b008545f) from my directory to make sure all modules are imported. You will need to import the following:
    -   Numpy
    -   PIL
    -   Streamlit
    -   Tensorflow
-4. Open the terminal and using Python type the following streamlit run streamlit.py. That should result in opening a tab in your browser that says __localhost:8501__ and that will be my Plant Disease Detection Model application.
+
+3. Open the terminal and using Python type the following streamlit run streamlit.py. That should result in opening a tab in your browser that says __localhost:8501__ and that will be my Plant Disease Detection Model application.
 
 ## 📊Key Results
 
