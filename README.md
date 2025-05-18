@@ -15,7 +15,7 @@ The dataset that is used in this project comes from Kaggle.com and is named Plan
 ## 🚀How to Run the Project
 1. Open your IDE of choice. Make sure the following are installed:
    -   Python
-2. Download the [Streamlit.py](streamlit.py) ![github_emoji_32x32](https://github.com/user-attachments/assets/2c450c0c-41ff-40ec-b5eb-9239b008545f) from my directory to make sure all modules are imported. You will need to import the following:
+2. Download the [Streamlit.py](streamlit.py) ![github_emoji_32x32](https://github.com/user-attachments/assets/2c450c0c-41ff-40ec-b5eb-9239b008545f) from my directory to make sure all modules are imported. Make sure you save it in a folder where all the project files will be. You will need to import the following:
    -   Numpy
    -   PIL
    -   Streamlit
