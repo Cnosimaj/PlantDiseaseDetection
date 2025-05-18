@@ -20,7 +20,7 @@ The dataset that is used in this project comes from Kaggle.com and is named Plan
    -   PIL
    -   Streamlit
    -   Tensorflow
-4. Open the terminal and using Python type the following streamlit run streamlit.py. That should result in opening a tab in your browser that says localhost:8501 and that will be my Plant Disease Detection Model application.
+4. Open the terminal and using Python type the following streamlit run streamlit.py. That should result in opening a tab in your browser that says [localhost:8501]() and that will be my Plant Disease Detection Model application.
 
 ## 📊Key Results
 
