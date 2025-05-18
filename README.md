@@ -1,4 +1,4 @@
-# 🪴Plant Disease Detection Model
+# 🪴Plant Disease Detection Model🪴
 A project that detects plant disease in plant leaves by harnessing the power of Deep Learning, Computer Vision, and Agricultural Technology.
 
 ## 📖Project Overview
@@ -22,20 +22,20 @@ The dataset that is used in this project comes from Kaggle.com and is named Plan
 
 ## 📊Key Results
 
-Training Accuracy: 98.33%
-Validation Accuracy: 84.64%
-Precision: 85%
-Recall: 85%
-F1-Score: 84%
+  -    Training Accuracy: 98.33%
+  -    Validation Accuracy: 84.64%
+  -    Precision: 85%
+  -    Recall: 85%
+  -    F1-Score: 84%
 
 ## ✔️Credits & Acknowledgements
 Below are all the resources used to help build this project:
 
-Kaggle.com
-Github.com (various accounts)
-Geeksforgeeks.com
-Keras.io
-Youtube.com (Spotless Tech, Deep Charts, Siddhardhan, Code With Aarohi, and many more)
-Wikipedia.com
-Last but not least 🎆Dr. Huan🎆
+  -   Kaggle.com
+  -   Github.com (various accounts)
+  -   Geeksforgeeks.com
+  -   Keras.io
+  -   Youtube.com (Spotless Tech, Deep Charts, Siddhardhan, Code With Aarohi, and many more)
+  -   Wikipedia.com
+  -   Last but not least 🎆Dr. Huan🎆
 
