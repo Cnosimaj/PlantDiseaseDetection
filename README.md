@@ -10,6 +10,8 @@ Within my model and other models that have focused on the same industry, there h
 ## 📈Dataset
 The dataset that is used in this project comes from Kaggle.com and is named PlantVillage Dataset. PlantVillage contains over 50k images of diseased and healthy plant leaves. Preprocessing was used to train the model. The over 50k PlantVillage dataset was used in this process. 
 
+➡️[GET HERE](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)⬅️
+
 ## 🚀How to Run the Project
 1. Open your IDE of choice. Make sure the following are installed:
    -   Python
