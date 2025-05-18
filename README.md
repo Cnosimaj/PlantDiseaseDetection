@@ -11,9 +11,31 @@ Within my model and other models that have focused on the same industry, there h
 The dataset that is used in this project comes from Kaggle.com and is named PlantVillage Dataset. PlantVillage contains over 50k images of diseased and healthy plant leaves. Preprocessing was used to train the model. The over 50k PlantVillage dataset was used in this process. 
 
 ## 🚀How to Run the Project
-1. Open your IDE of choice.
-2. 
+1. Open your IDE of choice. Make sure the following are installed:
+   -   Python
+3. Use the [Streamlit](streamlit.py) file in my directory to make sure all modules are imported. You will need to import the following:
+   -   Numpy
+   -   PIL
+   -   Streamlit
+   -   Tensorflow
+4. Open the terminal and using Python type the following streamlit run streamlit.py. That should result in opening a tab in your browser that says localhost:8501 and that will be my Plant Disease Detection Model application.
 
 ## 📊Key Results
 
+Training Accuracy: 98.33%
+Validation Accuracy: 84.64%
+Precision: 85%
+Recall: 85%
+F1-Score: 84%
+
 ## ✔️Credits & Acknowledgements
+Below are all the resources used to help build this project:
+
+Kaggle.com
+Github.com (various accounts)
+Geeksforgeeks.com
+Keras.io
+Youtube.com (Spotless Tech, Deep Charts, Siddhardhan, Code With Aarohi, and many more)
+Wikipedia.com
+Last but not least 🎆Dr. Huan🎆
+
