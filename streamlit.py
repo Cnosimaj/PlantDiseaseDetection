@@ -96,7 +96,7 @@ elif (app_mode == "About"):
     
 
 """)
-    st.subheader("Plant Disease Recognition Model")
+
 
 # Disease Recognition Page
 elif (app_mode == "Disease Recognition"):
