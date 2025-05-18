@@ -35,6 +35,7 @@ Below are all the resources used to help build this project:
 
   -   Kaggle.com
   -   Github.com (various accounts)
+  -   Hover Tabs
   -   Geeksforgeeks.com
   -   Keras.io
   -   Youtube.com (Spotless Tech, Deep Charts, Siddhardhan, Code With Aarohi, and many more)
